@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?text=Hello%20Hand's%20World!&type=venom)  
+  ![header](https://capsule-render.vercel.app/api?text=Hello%20Hand's%20World!&height=300&section=header")  
   
   ![Hand's GitHub stats](https://github-readme-stats.vercel.app/api?username=handje&show_icons=true&theme=transparent&rank_icon=github&show=reviews)
   <br/>
